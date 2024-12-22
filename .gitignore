@@ -1,0 +1,9 @@
+//
+//  .gitignore
+//  MyMap
+//
+//  Created by James Allen on 22/12/2024.
+//
+
+**.DS_Store**
+MyMap.**
